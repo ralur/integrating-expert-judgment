@@ -1,6 +1,6 @@
 # Integrating Expert Judgment and Algorithmic Decision Making
 
-This repository contains code and data to reproduce the experiments in our paper "Integrating Expert Judgment and Algorithmic Decision Making: An Indistinguishability Approach".
+This repository contains code and data to reproduce the experiments in our paper "Integrating Expert Judgment and Algorithmic Decision Making: An Indistinguishability Approach" (https://arxiv.org/abs/2410.08783).
 
 ## Dependencies
 
